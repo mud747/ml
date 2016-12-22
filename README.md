@@ -1,5 +1,4 @@
 # Notes on statistics and machine learning
 notes on machine learning and statistics
 ## interesting repositories and links
-Randy Olson's data analysis and machine learning projects
-https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects.git
+Randy Olson's data analysis and machine learning projects [github here](https://github.com/rhiever/Data-Analysis-and-Machine-Learning-Projects.git)
